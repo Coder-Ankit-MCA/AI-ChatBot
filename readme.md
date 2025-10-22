@@ -40,7 +40,8 @@ An interactive AI-powered chatbot built using **Python (Flask)** and the **OpenA
    pip install -r requirements.txt
    ```
 3. **Set up your OpenAI API key**
-Open the `app.py` file and replace `Your_API_KEY` in the following line:
+
+   Open the `app.py` file and replace `Your_API_KEY` in the following line:
    ```python
    client = OpenAI(api_key="Your_API_KEY")
    ```
@@ -87,4 +88,5 @@ This project is open-source and available under the MIT License.
 
 
    
+
 
